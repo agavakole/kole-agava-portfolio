@@ -1,11 +1,26 @@
+# Kole Agava Portfolio
 
-  # 3D Developer Portfolio Website
+A modern, responsive developer portfolio showcasing my work in cloud infrastructure, full-stack development, and networking.
 
-  This is a code bundle for 3D Developer Portfolio Website. The original project is available at https://www.figma.com/design/fuTtW4isMBLNGQggSegdQS/3D-Developer-Portfolio-Website.
+## Features
+- Interactive UI with smooth animations (Framer Motion)
+- 3D visual elements for enhanced user experience
+- Project showcase with case studies
+- Contact form powered by EmailJS
+- Fully responsive design (mobile + desktop)
 
-  ## Running the code
+## Tech Stack
+- React + TypeScript
+- Tailwind CSS
+- Framer Motion
+- EmailJS
+- Vite
 
-  Run `npm i` to install the dependencies.
+## Live Demo
 
-  Run `npm run dev` to start the development server.
-  
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
