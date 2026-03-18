@@ -1,11 +1,11 @@
-import { createBrowserRouter } from "react-router";
+import { createHashRouter } from "react-router";
 import { Home } from "./pages/Home";
 import PythonBuddyCaseStudy from "./pages/PythonBuddyCaseStudy";
 import ClassroomConnectCaseStudy from "./pages/ClassroomConnectCaseStudy";
 import SRFTProtocolCaseStudy from "./pages/SRFTProtocolCaseStudy";
 import { Layout } from "./components/Layout";
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     element: <Layout />,
     children: [
